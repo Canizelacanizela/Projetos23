@@ -1,0 +1,12 @@
+[RN001]Efetuar Login
+--Atendente e Gerente realizar via email e senha
+[RN002]Realizar Venda
+--Informar dados do cliente, produto, atendente, metodo de pagamento e data
+[RN003]CRUD Funcionario, Cliente, Produto
+--Apenas o gerente deve ter a opção do CRUD, o atendente apenas cadastrar
+[RN004]Relatorio de Vendas
+--Apenas o gerende podera acessar, opção de filtrar por data
+[RN005]Paleta de cor do site
+--Seguir uma sequencia de cor Pastel
+[RN006]Salario
+R$10,00000000000
